@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Итог\bin\Debug\net6.0\Итог.exe
+C:\Users\User\Desktop\Итог\bin\Debug\net6.0\Итог.deps.json
+C:\Users\User\Desktop\Итог\bin\Debug\net6.0\Итог.runtimeconfig.json
+C:\Users\User\Desktop\Итог\bin\Debug\net6.0\Итог.dll
+C:\Users\User\Desktop\Итог\bin\Debug\net6.0\Итог.pdb
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.AssemblyInfo.cs
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.dll
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\refint\Итог.dll
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.pdb
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\Итог.genruntimeconfig.cache
+C:\Users\User\Desktop\Итог\obj\Debug\net6.0\ref\Итог.dll
